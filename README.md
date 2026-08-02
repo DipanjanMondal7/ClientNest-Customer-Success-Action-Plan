@@ -31,37 +31,37 @@ Following the Customer Health Assessment, Apex Diagnostics required a structured
 
 ## Executive Summary
 
-![Executive Summary](images/csap-01-executive-summary.jpg)
+![Executive Summary](images/csap-01-executive-summary.jpg.jpeg)
 
 ---
 
 ## CSAP Overview
 
-![CSAP Overview](images/csap-02-overview.jpg)
+![CSAP Overview](images/csap-02-overview.jpg.jpeg)
 
 ---
 
 ## Executive Dashboard
 
-![Executive Dashboard](images/csap-03-dashboard.jpg)
+![Executive Dashboard](images/csap-03-dashboard.jpg.jpeg)
 
 ---
 
 ## Detailed Action Plan
 
-![Detailed Action Plan](images/csap-04-action-plan.jpg)
+![Detailed Action Plan](images/csap-04-action-plan.jpg.jpeg)
 
 ---
 
 ## KPI Dashboard
 
-![KPI Dashboard](images/csap-05-kpi-dashboard.jpg)
+![KPI Dashboard](images/csap-05-kpi-dashboard.jpg.jpeg)
 
 ---
 
 ## Communication & Governance
 
-![Communication & Governance](images/csap-06-governance.jpg)
+![Communication & Governance](images/csap-06-governance.jpg.jpeg)
 
 ---
 
